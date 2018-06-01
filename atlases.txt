@@ -1,0 +1,3 @@
+atlases/AAL/aal_1mm_90.nii
+atlases/AAL/aal_1mm.nii
+atlases/HO_cor_subcor_lat/HarvardOxford-sub_and_cort-maxprob-thr25-1mm.nii

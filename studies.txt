@@ -1,0 +1,15 @@
+adni_ecm_plus_gm_3tp.txt
+adni_gm_3tp.txt
+adni_ecm_3tp.txt
+vumc_ECM_plus_t1.txt
+vumc_t1_ECM.txt
+vumc_ECM.txt
+vumc_ASL_plus_t1.txt
+vumc_t1_ASL.txt
+vumc_ASL.txt
+geneva_cbf_plus_gm.txt
+geneva_gm.txt
+geneva_cbf.txt
+cita_ecm_plus_gm.txt
+cita_gm.txt
+cita_ecm.txt
